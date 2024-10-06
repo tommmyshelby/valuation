@@ -1,0 +1,4 @@
+Invoice Number,Customer,Invoice Date,Due Date,Amount,Days Outstanding
+1001,Customer A,2023-11-01,2023-12-01,500,30
+1002,Customer B,2023-10-15,2023-11-15,750,45
+1003,Customer C,2023-09-20,2023-10-20,300,60

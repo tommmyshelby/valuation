@@ -1,0 +1,14 @@
+Key Performance Indicators
+Year: 2023
+
+Financial KPIs:
+  Gross Margin: 55%
+  Net Profit Margin: 28.5%
+
+Operational KPIs:
+  Customer Satisfaction: 90%
+  Employee Turnover Rate: 5%
+
+Growth KPIs:
+  Revenue Growth Rate: 12%
+  Market Share: 10%

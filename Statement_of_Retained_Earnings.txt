@@ -1,0 +1,7 @@
+Statement of Retained Earnings
+Period: January 1, 2023 - December 31, 2023
+
+Beginning Retained Earnings: $200,000
+Add: Net Income: $285,000
+Less: Dividends: $40,000
+Ending Retained Earnings: $445,000

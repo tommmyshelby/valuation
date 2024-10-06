@@ -1,0 +1,10 @@
+Tax Returns Summary
+Year: 2023
+
+Gross Income: $1,000,000
+Deductions:
+  Operating Expenses: $700,000
+  Interest Expenses: $5,000
+Taxable Income: $295,000
+Tax Rate: 25%
+Tax Due: $73,750

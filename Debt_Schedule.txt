@@ -1,0 +1,10 @@
+Debt Schedule
+Date: December 31, 2023
+
+Short-term Debt:
+  Loan 1: $20,000 (Due: 2024-06-01)
+  Credit Line: $10,000
+
+Long-term Debt:
+  Mortgage: $100,000 (Due: 2030-12-31)
+  Bond: $50,000 (Due: 2028-05-15)

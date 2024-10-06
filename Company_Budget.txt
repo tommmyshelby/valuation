@@ -1,0 +1,12 @@
+Company Budget
+Year: 2024
+
+Projected Revenue:
+  Sales: $1,100,000
+  Services: $120,000
+Projected Expenses:
+  Salaries: $250,000
+  Rent: $60,000
+  Utilities: $25,000
+  COGS: $450,000
+Budgeted Net Income: $435,000

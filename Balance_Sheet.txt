@@ -1,0 +1,25 @@
+Balance Sheet
+Date: December 31, 2023
+
+Assets:
+  Current Assets:
+    Cash and Cash Equivalents: $150,000
+    Accounts Receivable: $100,000
+    Inventory: $75,000
+  Non-current Assets:
+    Property, Plant, and Equipment: $300,000
+    Intangible Assets: $50,000
+Total Assets: $675,000
+
+Liabilities:
+  Current Liabilities:
+    Accounts Payable: $80,000
+    Short-term Debt: $30,000
+  Non-current Liabilities:
+    Long-term Debt: $120,000
+Total Liabilities: $230,000
+
+Shareholders' Equity:
+  Common Stock: $200,000
+  Retained Earnings: $245,000
+Total Shareholders' Equity: $445,000
